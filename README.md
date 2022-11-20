@@ -18,7 +18,7 @@ bash <(curl -sSL https://raw.githubusercontent.com/panhuanghe/vpsroot/main/root.
 
 My own:
 ```
-bash <(curl -sSL https://raw.githubusercontent.com/AndersonGhost/one-clik-root/blob/main/root.sh)
+bash <(curl -sSL https://raw.githubusercontent.com/AndersonGhost/one-clik-root/main/root.sh)
 ```
 用户名：root，密码必须自定义。
 
