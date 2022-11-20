@@ -16,6 +16,10 @@ VPS应用环境：纯IPV4、纯IPV6、双栈IPV4+IPV6，
 bash <(curl -sSL https://raw.githubusercontent.com/panhuanghe/vpsroot/main/root.sh)
 ```
 
+My own:
+```
+bash <(curl -sSL https://raw.githubusercontent.com/AndersonGhost/one-clik-root/blob/main/root.sh)
+```
 用户名：root，密码必须自定义。
 
 登录SSH时，请更改原用户名为root，并输入自定义密码！
